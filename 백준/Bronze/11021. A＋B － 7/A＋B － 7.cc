@@ -7,7 +7,7 @@ int main(void)
     int b[k];
     int i=0;
     int n=0;
-    int sum[i];
+    int sum[k];
     for (i=0;i<k;i++)
         {
             scanf("%d",&a[i]);
